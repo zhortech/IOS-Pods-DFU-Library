@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "iOSDFULibrary"
+  s.name             = "NordicDFU"
   s.version          = "4.10.3"
   s.summary          = "This repository contains a tested library for iOS 9+ devices to perform Device Firmware Update on the nRF5x devices"
   s.description      = <<-DESC
